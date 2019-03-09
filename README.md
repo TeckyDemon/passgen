@@ -32,11 +32,7 @@ Clone this repository:
 
 ## Usage
 
-Generate random password with 100 entropy bits:
-
-`lua main.lua`
-
-Generate random password with **N** entropy bits:
+Generate random password with **N** entropy bits (default: 100):
 
 `lua main.lua N`
 
