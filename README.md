@@ -1,7 +1,5 @@
 # PassGen
 
-## Description
-
 **PassGen** is simple password generator written in Lua.
 
 ## Prerequisites
