@@ -1,5 +1,7 @@
 # PassGen
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **PassGen** is simple password generator written in Lua.
 
 ## Content
